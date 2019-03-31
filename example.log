@@ -1,0 +1,5 @@
+DEBUG main by.epam.javatraining.veronikakhlopava.maintask02.model.logic.finder.Finder - Max calorie ingridient in Salad isPotato{age='old'calories in salad308.0Vegetable{ type='Root Vegetable', caloriesPerHundredGrams=77.0, weight=400.0}}
+DEBUG main by.epam.javatraining.veronikakhlopava.maintask02.model.logic.sorter.Sorter - Sorting by calories was started...
+DEBUG main by.epam.javatraining.veronikakhlopava.maintask02.model.logic.sorter.Sorter - Salad ingridients was sorted by Calories
+DEBUG main by.epam.javatraining.veronikakhlopava.maintask02.model.logic.calculator.Calculator - total weight of salad was calculated
+DEBUG main by.epam.javatraining.veronikakhlopava.maintask02.model.logic.calculator.Calculator - total weight of salad was calculated
